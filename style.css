@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(#fff 0%, #000000 140%);
+}
+
+.activity {
+    background: linear-gradient(#00B01C -20%, #FFFFFF 90%);
+}
+
+main {
+    text-align: center;
+    font-size: 40px;
+    line-height: 48.41px;
+    margin-top: 115px;
+}
+
+.activity-status {
+    font-weight: 700;
+    margin-bottom: 66px;
+}
+
+.activity-title {
+    margin-bottom: 94px;
+}
+
+.js-btn {
+    width: 500px;
+    height: 60px;
+    background-color: #0094FF;
+    border: none;
+    color: white;
+    font-size: 32px;
+    line-height: 38.73px;
+}
